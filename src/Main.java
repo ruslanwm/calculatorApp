@@ -17,6 +17,7 @@ public class Main {
                 break;
             }
 
+
             System.out.println("1ci eded:");
             double first = new Scanner(System.in).nextDouble();
 
